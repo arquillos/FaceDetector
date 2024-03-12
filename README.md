@@ -1,6 +1,9 @@
-Face detector script with sample images
+# Face detector script with sample images
+Images in the ***"resources\images"*** folder (*.jpg)
+
 Some images work, some doesn't
 
-Test:
-$ pip install -r requirements.txt
-$ python main.py
+Execution
+
+    $ pip install -r requirements.txt 
+    $ python main.py
